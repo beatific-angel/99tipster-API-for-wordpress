@@ -1,0 +1,54 @@
+
+/*.tipster99-thstyle*/
+/*{*/
+/*    background: #00933b;*/
+/*    border-color: #00933b;*/
+/*    color: #fefefe;*/
+/*    transition: background-color .1s ease;*/
+/*}*/
+/*.tipster99-thstyle1{*/
+/*  text-align: center;*/
+/*  line-height: 2rem;*/
+/*    padding: 1px;*/
+/*}*/
+/*.tipster99-leaue{*/
+/*    !*border-radius: 50%*!*/
+/*}*/
+/*.tipster99-col-red{*/
+/*    color: #EE0000;*/
+/*}*/
+
+/*.tipster99-tdstyle1{*/
+/*    text-align: center;*/
+/*}*/
+
+/*ul > li {*/
+/*    display: inline-block;*/
+/*    !* You can also add some margins here to make it look prettier *!*/
+/*    zoom:1;*/
+/*    *display:inline;*/
+/*    !* this fix is needed for IE7- *!*/
+/*}*/
+/*.tooltip {*/
+/*    position: relative;*/
+/*!*    display: inline-block;*/
+/*    border-bottom: 1px dotted green;*!*/
+/*}*/
+
+/*.tooltip .tooltiptext {*/
+/*    visibility: hidden;*/
+/*    width: 120px;*/
+/*    background-color: green;*/
+/*    color: #fff;*/
+/*    text-align: center;*/
+/*    border-radius: 6px;*/
+/*    padding: 5px 0;*/
+
+/*    !* Position the tooltip *!*/
+/*    position: absolute;*/
+/*    z-index: 1;*/
+/*}*/
+
+/*.tooltip:hover .tooltiptext {*/
+/*    visibility: visible;*/
+/*}*/

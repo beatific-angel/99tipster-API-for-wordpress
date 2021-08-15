@@ -1,0 +1,17 @@
+{
+    "name": "willmosley/super-side",
+    "description": "Display contexual sidebar content based on page",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "William Mosley III",
+            "email": "wmosley@thenewhuman.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {"Inc\\": "./inc"}
+	}
+}
